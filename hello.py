@@ -1,4 +1,4 @@
-langauge = langauge
-langauge = langauge
+language = language
+language = language
 def hello():
   
